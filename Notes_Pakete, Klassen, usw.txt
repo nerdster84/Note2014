@@ -1,0 +1,61 @@
+====================================
+Pakete
+====================================
+Application
+Model
+
+	Notiz
+	SubTypNotiz
+		Text
+		FormattedText
+		Image
+		URL
+		List
+			Adress
+		
+		
+			(note: nur Spalten mit Eintrag werden nachher angezeigt)
+				
+				
+				
+		
+Controller 
+View
+	ViewOne
+			MainWindow
+			FrameNote_ShowNote
+			FrameNote_createNote
+			FrameTag_createTags
+			FrameTag_chooseTags
+			FrameSearch
+			Frame
+	
+
+was ist eine Notiz:
+
+Note als Container
+Note kennt Kinder
+Kinder kennen Unterkinder
+
+Notiz (Note) ist sozusagen die Container-Klasse.
+Beinhaltet Informationen, welcher Art die Notiz ist, also welche Bestandteile sie haben soll.
+
+Atomare Notizelemente:
+
+Datum 
+Text (unformatiert)
+Bild
+Webadresse
+Email
+Telefonnummer
+
+
+
+zusammengesetzte: (immer mit tags zu verknüpfen)
+
+Adresse (name, anschrift, kontaktdaten, weiteres)
+URL (name, webadresse)
+Kontaktdaten (Name, URL (*x), email, telefon)
+
+
+

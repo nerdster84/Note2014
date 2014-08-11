@@ -1,0 +1,8 @@
+REIHENFOLGE DER SCHRITTE:
+
+========================
+ERSTE VERSION:
+========================
+- erstmal müssen Notizen nur Text aufnehmen können (einfache Strings) 
+- diese sollen in Datenbank ablegbar und aufrufbar sein
+- Suche bzw. Auswahl per Tag soll möglich sein

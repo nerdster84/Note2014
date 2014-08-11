@@ -1,0 +1,47 @@
+NOTIZPROGRAMM - ZWECK UND GRUNDLEGENDE ÜBERLEGUNGEN ZU STRUKTUR USW.
+========================
+Unterelemente von Notizen / was soll gespeichert werden können:
+========================
+Arten von Notizen:
+	Adressen, Links, Dateipfade, Textstücke, Bilder, 
+	
+-> also zu speichernde Kategorien (Notizen können sich also aus den folgenden Typen zusammensetzen):
+
+	Text
+	URLs
+	Bilder
+	Adressen
+	Listen
+======	
+Beispiele für Anwendungsfälle: (Use-Cases)
+
+	Installationsanleitung notieren
+	Notizen zu einem Programm und dessen Einstellungen
+	Telnummer speichern
+	Bandnamen merken
+	Anleitung für Vorgehensweisen notieren (z.b. fürs Studium, konfigurieren von systemen,...)
+	Lernnotizen anlegen (am besten formatierbar)
+========================
+zu den Notizen selbst
+========================
+- eine Notiz besteht aus beliebigen Kombinationen der oben genannten Typen
+- Notizen können dabei stück für stück zusammengesetzt werden, etwa wie eine html-seite
+- Notizen bekommen tags vom user
+- Notizen können gesucht werden
+- verschiedene Anzeigemodi für Notizen	
+	alle dem Erstellungsdatum nacheinander anzeigen
+	alle Notizen einer Kategorie(tag) anzeigen	
+	komplett anzeigen oder komprimierte zusammenfassung für schnellen Überblick
+- Notizen können als pdf, txt oä exportiert werden
+- verschiedene Suchmodi
+- verschlüsselt speichern
+
+========================
+
+========================
+
+
+	
+
+
+
